@@ -1,4 +1,4 @@
-# 🎲 Cellular Automaton (KP02)
+# 🎲 Cellular Automaton
 
 A two-dimensional cellular automaton simulation.
 
